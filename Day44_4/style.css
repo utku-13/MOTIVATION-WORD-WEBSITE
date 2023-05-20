@@ -1,0 +1,21 @@
+h1{
+    color: antiquewhite;
+    background-color: black;
+    text-transform: uppercase;
+}
+*{
+    background-color: black;
+
+}
+
+p{
+    color: wheat;
+}
+img{
+    width: 100%;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+}
